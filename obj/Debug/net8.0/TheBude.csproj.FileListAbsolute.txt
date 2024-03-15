@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\TheBude1\bin\Debug\net8.0\TheBude.exe
+C:\Users\Hp\Desktop\TheBude1\bin\Debug\net8.0\TheBude.deps.json
+C:\Users\Hp\Desktop\TheBude1\bin\Debug\net8.0\TheBude.runtimeconfig.json
+C:\Users\Hp\Desktop\TheBude1\bin\Debug\net8.0\TheBude.dll
+C:\Users\Hp\Desktop\TheBude1\bin\Debug\net8.0\TheBude.pdb
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.sourcelink.json
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.dll
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\refint\TheBude.dll
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.pdb
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\TheBude.genruntimeconfig.cache
+C:\Users\Hp\Desktop\TheBude1\obj\Debug\net8.0\ref\TheBude.dll
